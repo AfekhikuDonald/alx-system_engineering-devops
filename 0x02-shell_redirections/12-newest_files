@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lct | sort
+ls -t | head
